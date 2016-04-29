@@ -35,7 +35,7 @@ def insultInteraction():
                 print(random.choice(["I'm really mad now! Dont make me crash your computer", "This is your last warning before I start up a virus", "Don't make me crash this pc!", "One more rude thing and I will infect this computer"]))
             elif angrySusanLevel == 4:
                 print(random.choice(["Release the kraken", "Big mistake", "Prepare to face my wrath", "You started on the wrong AI"]))
-                os.system("angry.exe")
+                os.system("angry.vbs")
                 exit()
 #LEAVING INTERACTION
 def leavingInteraction():
