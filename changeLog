@@ -1,0 +1,21 @@
+CHANGE LOG SINCE ENDING OF ALPHA TESTING
+
+Build: ', 1-9
+glitch fixed
+removed no infect on insult interaction
+fixed update bug recording exit entries
+fixed build number message
+added exit on update
+moved hello interaction to inide the main loop
+created a gif interaction
+Build: ', 10
+Completed fav interaction
+Fixed spelling mistake on website interaction
+Fixed hello world interaction
+Build: ', 11
+Added y/n reminder on fav trigger questions
+Added rickroll feature on fav music
+Added build sperator for update.py
+Build: ', 12
+Fixed lots of bugs
+Started work on multiple line jokes
